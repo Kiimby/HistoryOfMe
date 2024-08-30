@@ -6,9 +6,7 @@
 
 History of Me wants to be your own personal diary in the digital age. Browse through all of your diary entries and organize your writings. Create, edit and read individual entries and relive your memories. Track your mood and feelings. History of Me offers a digital bookmark you can customize yourself. This app will store your data only on your device. No one else but you will be able to read your diary!
 
-Now available on the Play Store.
-
-<a href='https://play.google.com/store/apps/details?id=com.litlifesoftware.historyofme'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+## **This is a fork from the original app that has been discontinued!**
 
 ## Trailer
 
